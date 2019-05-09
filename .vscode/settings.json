@@ -1,0 +1,7 @@
+{
+    "appService.zipIgnorePattern": [
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/3b960bfd-dbcc-4cd1-8fcd-0dec555741a3/resourceGroups/iDEX/providers/Microsoft.Web/sites/idexwebsite",
+    "appService.deploySubpath": ""
+}
