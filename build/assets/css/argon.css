@@ -786,6 +786,16 @@ pre code
     padding-right: 15px;
     padding-left: 15px;
 }
+/* centralize row */
+.row-center
+{
+    display: flex;
+
+    margin-right: auto;
+    margin-left: auto; 
+
+    flex-wrap: wrap;
+}
 
 .row
 {
