@@ -20,6 +20,8 @@ Currently, this website is hosted on `Microsoft Azure`. Considering the nature o
 
 ## Deploy
 
+`VS Code` is recommended, but not required. If you are using `VS Code`, you can just open up `idexwebsite.code-workspace` to edit files.
+
 ### Prerequisite
 
 * Clone this project down.
@@ -69,6 +71,14 @@ Once the required components are all installed, you can follow the instructions 
   ```
 
 Waiting for `gulp` to complete its work. You may see the local link and port. The default link of `gulp` for local view is `http://localhost:3000`, it may varies depend on your own settings. You can copy the link to your browser to examine the website. **Chrome is recommended. Sometimes, the `Disable Cache` check box in `Developer Tools` of Chrome is required to be checked to reload certain assets.**
+
+
+
+### Develop
+
+All main files are located in the `build` folder. 
+
+`index.html` is the home page. `offer.html` introduces some techniques may used in iDEX events. `team.html` gives out a brief view of our management team members. `assets/img` contains all images used in this project. Please be organized when adding new images.
 
 
 
