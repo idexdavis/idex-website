@@ -10,6 +10,14 @@ Currently, this website is hosted on `Microsoft Azure`. Considering the nature o
 
 
 
+## To-Do
+
+- [ ] Create simple 404 page.
+- [ ] Direct naked domain (root domain) correctly.
+- [ ] Create a `Activity` page.
+
+
+
 ## Deploy
 
 ### Prerequisite
@@ -84,4 +92,3 @@ In order to develop for this project, you may need to get familiar with `argon d
 [Link for documentations of argon design system](https://demos.creative-tim.com/argon-design-system/docs/getting-started/overview.html)
 
 [Link for online demos of argon design system](https://demos.creative-tim.com/argon-design-system/index.html)
-
