@@ -49,6 +49,10 @@ If you just clone this project down, you need to use `npm` to install all compon
   ```bash
   npm install
   ```
+  *For MacOS users: execute the command below in terminal* 
+  ```bash
+  sudo npm install gulp -g
+  ```
 
   **Note: Please be patient during the installation of required components. `npm` may throw some vulnerability warnings during installation, please ignore that. Do not run suggested fix action without thorough consideration.**
 
