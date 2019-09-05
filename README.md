@@ -15,7 +15,7 @@ Currently, this website is hosted on `Microsoft Azure`. Considering the nature o
 - [ ] Create simple 404 page.
 - [ ] Direct naked domain (root domain) correctly.
 - [ ] Create a `Activity` page.
-- [x] Add social media icon and link to all pages.
+- [x] ~~Add social media icon and link to all pages.~~
 
 
 
